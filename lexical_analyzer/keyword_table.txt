@@ -1,0 +1,10 @@
+int K1
+float K2
+char K3
+void K4
+if K5
+for K6
+while K7
+auto K8
+register K9
+static K10
